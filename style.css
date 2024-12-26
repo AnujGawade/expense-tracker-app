@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Slab", serif;
+}
+.container {
+  max-width: 660px;
+  /* display: flex; */
+  background-color: #fffecb;
+  padding: 10px;
+  margin: 15px;
+  box-shadow: 0 2px 4px black;
+  border-radius: 8px;
+}
+input[type="text"],
+select,
+input[type="number"],
+input[type="submit"] {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+input[type="submit"] {
+  background-color: green;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background-color: #b1d690;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid white;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: green;
+}
