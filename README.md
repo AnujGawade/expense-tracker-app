@@ -10,7 +10,7 @@ A simple and intuitive expense tracker application built with JavaScript, design
 
 ## Demo
 
-Try the live demo here: [Live Demo](#)
+Try the live demo here: (https://expense-tracker-app-five-inky.vercel.app/)
 
 ## Installation
 
